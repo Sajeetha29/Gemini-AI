@@ -1,2 +1,2 @@
-# Gemini-AI-
+# Gemini-AI
 Bot
